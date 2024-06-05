@@ -8,27 +8,33 @@
 ##### - 2022 Statistical Data Analysis Team Project
 ##### - 2023 데이터분석 연합동아리 WEIT
 <br>
+
 #### 📌 Deep Learning
 ##### - 4차 산업혁명 연구 동아리 TAVE 13기 (딥러닝)
 ##### - 딥러닝 논문 및 코드리뷰 스터디
 <br>
+
 #### 📌 Web - Frontend
 ##### - 2023 멋쟁이사자차럼 11기 (FE)
 ##### - 2023 LIKELION Univ. 11th HACKATHON (FE)
 ##### - 2023 멋쟁이 사자처럼 <어흥 올림픽 해커톤> 대상 수상 (FE)
 <br>
+
 #### 📌 Web - Backend
 ##### - 24-1 <방명록 웹 서비스> Node.js (BE)
 <br>
+
 #### 📌 App
 ##### - 2024 <자린고비> 안드로이드 앱 개발
 <br>
+
 #### 📌 Commuication & Cooperation Skill
 ##### - 2021.01 ~ 2021.12 국제교류학생클럽 어우라미 (외국인 유학생 지원)
 ##### - 2021.05 ~ 2021.12 기아챌린지 ECO 서포터즈 (환경관련 기사 작성 및 경기일보 업로드 / 환경 교육 봉사) 
-##### - 2022.03 ~ 2023.08 명지대학교 취업서포터즈 회장 직무 수행
+##### - 2022.03 ~ 2023.08 명지대학교 취업서포터즈 회장
 ##### - 2021.03 ~ 2021.10 녹색식품연구소 서포터즈 그리닛 10기 팀장 (최우수 서포터즈 선정)
 <br>
+
 #### 📌 Volunteer (Mentor)
 ##### - 폴얀센 장학기금 9기, 10기 대학생 멘토
 ##### - 희망멘토링 8기 대학생 멘토
@@ -52,18 +58,18 @@
 
 ## ⚙️ Skill
 #### ✔️ Language
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
 
 #### ✔️ Other Skill
-<img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/jsp-2C2255?style=for-the-badge&logo=jsp&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/jsp-2C2255?style=for-the-badge&logo=jsp&logoColor=white"> ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 <br>
 
 #### ✔️ DB
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 #### ✔️ Tool
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) <br>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br>
 
