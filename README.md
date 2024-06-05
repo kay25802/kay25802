@@ -20,14 +20,6 @@
 ##### - 2023 멋쟁이 사자처럼 <어흥 올림픽 해커톤> 대상 수상 (FE)
 <br>
 
-#### 📌 Web - Backend
-##### - 24-1 <방명록 웹 서비스> Node.js (BE)
-<br>
-
-#### 📌 App
-##### - 2024 <자린고비> 안드로이드 앱 개발
-<br>
-
 #### 📌 Commuication & Cooperation Skill
 ##### - 2021.01 ~ 2021.12 국제교류학생클럽 어우라미 (외국인 유학생 지원)
 ##### - 2021.05 ~ 2021.12 기아챌린지 ECO 서포터즈 (환경관련 기사 작성 및 경기일보 업로드 / 환경 교육 봉사) 
@@ -44,11 +36,11 @@
 
 ## 💻 Project
 
-- <a href="">2023 멋쟁이사자처럼 중앙 해커톤</a>
-- <a href="">2023 어흥올림픽</a>
-- <a href="">2023 국내 철강 산업 경제 지표 및 주식 분석 프로젝트</a>
-- <a href="t">2023 통계적 데이터 분석 팀 프로젝트</a>
-- <a href="">2024 자린고비 안드로이드 앱 개발 프로젝트</a>
+- <a href="https://github.com/kay25802/Lend2U_FE">2023 멋쟁이사자처럼 중앙 해커톤</a>
+- <a href="https://github.com/kay25802/2023_AHEUNGTHON_TEAMING">2023 어흥올림픽</a>
+- <a href="https://github.com/kay25802/Stock_Prediction_Team_Project">2023 국내 철강 산업 경제 지표 및 주가 예측 ML/DL 프로젝트</a>
+- <a href="https://github.com/kay25802/SDA_TEAM_PROJECT">2023 통계적 데이터 분석 팀 프로젝트</a>
+- <a href="https://github.com/kay25802/jaringobi-app/tree/develop">2024 자린고비 안드로이드 앱 개발 프로젝트</a>
 
 <br>
 
