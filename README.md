@@ -1,4 +1,4 @@
-## 📒 Introductio
+## 📒 Introduction
 #### 📌 Email : dalmadbb@naver.com / dalmadbb@gmail.com
 <br>
 
