@@ -39,7 +39,7 @@
 - <a href="https://github.com/kay25802/Lend2U_FE">2023 멋쟁이사자처럼 중앙 해커톤</a>
 - <a href="https://github.com/kay25802/2023_AHEUNGTHON_TEAMING">2023 어흥올림픽</a>
 - <a href="https://github.com/kay25802/Stock_Prediction_Team_Project">2023 국내 철강 산업 경제 지표 및 주가 예측 ML/DL 프로젝트</a>
-- <a href="https://github.com/kay25802/SDA_TEAM_PROJECT">2023 통계적 데이터 분석 팀 프로젝트</a>
+- <a href="https://github.com/kay25802/SDA_TEAM_PROJECT">2022 통계적 데이터 분석 팀 프로젝트</a>
 - <a href="https://github.com/kay25802/jaringobi-app/tree/develop">2024 자린고비 안드로이드 앱 개발 프로젝트</a>
 
 <br>
